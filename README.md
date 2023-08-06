@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debidong
-- 👀 I’m interested in network security & web application developing
+- 👀 I’m interested in cybersecurity & web application developing
 - 🌱 I’m currently learning cybersecurity & Django & Vue
 - 💞️ I’m looking to collaborate on backend programming
 - 📫 How to reach me: bowenyang1217@gmail.com
