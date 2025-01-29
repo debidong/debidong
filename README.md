@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @debidong
-- 💞️ I’m looking to collaborate on backend programming
+- 💞️ I’m looking to collaborate on backend programming with Go
 - 📫 How to reach me: work.bowenyang@outlook.com
